@@ -2,8 +2,8 @@ codeLearning
 ==============
 personal learning
 ---------------
-To study data structure and algorithm
+# To study data structure and algorithm
  
-hello, yixiao!
+## hello, yixiao!
 
-first_1
+##first_1
